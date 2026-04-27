@@ -1,4 +1,8 @@
-# Hi there! 👋
+<div>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&theme=cobalt"/>
+</div>
+
+# Hi there! 
 
 I'm **Ziad Ghalbane**, a Software Engineering student and cybersecurity enthusiast who enjoys building secure systems, solving real-world problems, and exploring AI-powered solutions.
 
@@ -62,3 +66,9 @@ I'm **Ziad Ghalbane**, a Software Engineering student and cybersecurity enthusia
 ### 🌐 **Connect with Me**
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/ziad-ghalbane-a30a78246/)
+
+---
+
+### 🐍 Contribution Snake
+
+<img src="https://raw.githubusercontent.com/zedbooy/zedbooy/output/snake.svg" alt="Snake animation" />
