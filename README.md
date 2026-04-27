@@ -12,7 +12,7 @@ I'm **Ziad Ghalbane**, a Software Engineering student and cybersecurity enthusia
 - 🤖 Currently working on AI-based automation projects
 - 📱 Exploring mobile security and vulnerability analysis (SBOM, OWASP)
 - 💡 Open to collaborate on tech and cybersecurity projects
-- 📫 How to reach me: [ziad.ghalbane@gmail.com](mailto:ziad.ghalbane@gmail.com)
+- 📫 How to reach me: [ziad.ghalbane@gmail.com](mailto:ziad.ghalbane1@gmail.com)
 
 ---
 
