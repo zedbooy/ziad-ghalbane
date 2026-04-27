@@ -67,8 +67,3 @@ I'm **Ziad Ghalbane**, a Software Engineering student and cybersecurity enthusia
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/ziad-ghalbane-a30a78246/)
 
----
-
-### 🐍 Contribution Snake
-
-<img src="https://raw.githubusercontent.com/zedbooy/zedbooy/output/snake.svg" alt="Snake animation" />
