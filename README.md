@@ -39,7 +39,6 @@ I'm **Ziad Ghalbane**, a Software Engineering student and cybersecurity enthusia
 ![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white)
 ![Tailwind_CSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
 ![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
-![Jakarta EE](https://img.shields.io/badge/-Jakarta_EE-052e4b?style=flat-square&logo=eclipse&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
 
 ---
