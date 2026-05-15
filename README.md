@@ -2,7 +2,7 @@
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&theme=cobalt"/>
 </div>
 
-# Hi there! 👋
+# Hi there! 
 
 I'm **Ziad Ghalbane**, a Software Engineering student and cybersecurity enthusiast who enjoys building secure systems, solving real-world problems, and exploring AI-powered solutions.
 
@@ -12,15 +12,15 @@ I'm **Ziad Ghalbane**, a Software Engineering student and cybersecurity enthusia
 
 ### 🚀 **About Me**
 
-- 🔐 Interested in Cybersecurity, AI, and Software Engineering
-- 🤖 Currently working on AI-based automation projects
-- 📱 Exploring mobile security and vulnerability analysis (SBOM, OWASP)
-- 💡 Open to collaborate on tech and cybersecurity projects
-- 📫 How to reach me: [ziadghalbane1@gmail.com](mailto:ziadghalbane1@gmail.com)
+- Interested in Cybersecurity, AI, and Software Engineering
+- Currently working on AI-based automation projects
+- Exploring mobile security and vulnerability analysis (SBOM, OWASP)
+- Open to collaborate on tech and cybersecurity projects
+- How to reach me: [ziadghalbane1@gmail.com](mailto:ziadghalbane1@gmail.com)
 
 ---
 
-### 🛠 **Tech Stack**
+###  **Tech Stack**
 
 **Languages**  
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
