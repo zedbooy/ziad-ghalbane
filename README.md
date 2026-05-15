@@ -10,7 +10,7 @@ I'm **Ziad Ghalbane**, a Software Engineering student and cybersecurity enthusia
 
 ---
 
-### 🚀 **About Me**
+### **About Me**
 
 - Interested in Cybersecurity, AI, and Software Engineering
 - Currently working on AI-based automation projects
